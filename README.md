@@ -1,1 +1,2 @@
 # Men's Dressing Sense Guide\n\nThis repository offers practical tips for men to enhance their style, focusing on casual and formal dressing.\n\n## Key Tips\n1. **Fit is Key**: Choose slim or tailored-fit jeans and t-shirts for a polished casual look.
+\n\n## Additional Resources\n- [casual_style.md](casual_style.md): Tips for casual dressing\n- [formal_style.md](formal_style.md): Tips for formal attire\n- [accessories.md](accessories.md): Guide to men’s accessories\n- [resources.md](resources.md): Trusted fashion resources
